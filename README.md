@@ -1,0 +1,2 @@
+# monago
+Monads in Go
